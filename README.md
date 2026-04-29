@@ -1,6 +1,6 @@
 # Seja bem-vindo(a)! 👨🏻‍💻
 
-#### Perfil profissional para o acompanhamento de projetos voltados à área de Engenharia de Dados.
+#### Perfil profissional para o acompanhamento de projetos voltados à área de Engenharia de Dados. 
 
 #### *Aqui você irá encontrar alguns dos projetos em que participo.* 🚀
 
