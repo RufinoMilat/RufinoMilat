@@ -1,8 +1,6 @@
 # Seja bem-vindo(a)! 👨🏻‍💻
 
-#### Perfil profissional para o acompanhamento de projetos voltados à área de Engenharia de Dados. 
-
-#### *Aqui você irá encontrar alguns dos projetos em que participo.* 🚀
+#### *Aqui você irá encontrar alguns dos projetos de Engenharia de Dados em que participo na Data Guvi.* 🚀
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RufinoMilat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&bg_color=1a1730&locale=en&hide_border=true" width="400" style="display: block; margin: 0 auto; width: 64%; max-width: 100%;" alt="stats graph"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RufinoMilat&locale=en&hide_title=false&layout=compact&card_width=390&langs_count=5&theme=tokyonight&bg_color=1a1730&hide_border=true" width="400" style="display: block; margin: 0 auto; width: 64%; max-width: 100%;"  alt="languages graph"/>
