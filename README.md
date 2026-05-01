@@ -1,4 +1,6 @@
-# Seja bem-vindo(a)! 👨🏻‍💻
+![Descrição da imagem](dataguvi_logo.png)
+
+# Seja bem-vindo(a)! 👨🏻‍💻 
 
 #### *Aqui você irá encontrar alguns dos projetos de Engenharia de Dados em que participo na Data Guvi.* 🚀
 
@@ -8,10 +10,6 @@
 <img align="middle" src="https://spotify-github-profile.kittinanx.com/api/view?uid=rufinissimo&cover_image=true&theme=default&show_offline=false&background_color=1b1931&bar_color=00b2a0&interchange=false" alt="spotify-github-profile" width="400" style="display: block; margin: 0 auto; width: 33%; max-width: 100%;" />
   </a>
     
-<p align="left">
-  <img src="https://github.com/RufinoMilat/RufinoMilat/blob/output/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake-dark" style="display: block; margin: 0 auto; width: 100%;" />
-</p>
-
 ## Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufinissimo)
